@@ -1,0 +1,33 @@
+h1{
+    text-align:center;
+    color: rgb(0, 22, 119);
+}
+
+body{
+    background-color:antiquewhite;
+}
+.car1{
+    position:relative;
+    left: 470px;
+}
+
+.car2{
+    position:relative;
+    left: 470px;
+}
+.car3{
+    position:relative;
+    top: 410px;
+    right: 350px;
+}
+.car4{
+    position:relative;
+    top: 410px;
+    right: 350px;
+}
+
+.price{
+    position:relative;
+    top: 410px;
+    left: 570px;
+}

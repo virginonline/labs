@@ -1,0 +1,14 @@
+h1{
+    text-align:center;
+}
+.next{
+    position:relative;
+    top: 20px;
+    left: 940px;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}

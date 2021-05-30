@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(0, 0, 167);
+}
+img{
+    display:none;
+    position: relative;
+    border-style: outset;
+    border-color: #ffA089;
+    border-width: 50px;
+    margin: 5px;
+}
+
+.text{
+    display:block;
+    color:white;
+    font-style: italic;
+    font-size:22px;
+    border-style: outset;
+    border-color: #ffA089;
+    border-width : 50px;
+    margin: 5px;
+
+}
+.author{
+        color:white;
+        font-style: italic;
+        font-size:30px;
+}
+
+
+
